@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    line-height: 20px;
+}
+
+#element1 {
+    background-color: magenta;
+}
+
+#element2 {
+    background-color: cyan;
+}
+
+#element3 {
+    background-color: purple;
+}
+
+#element4 {
+    background-color: pink;
+}
+
+#element5 {
+    background-color: gray;
+}	

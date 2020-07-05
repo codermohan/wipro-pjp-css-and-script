@@ -1,0 +1,24 @@
+body {
+    text-align: center;
+    line-height: 70px;
+}
+
+#element1 {
+    color: yellow;
+}
+
+#element2 {
+    color: blue;
+}
+
+#element3 {
+    color: green;
+}
+
+#element4 {
+    color: pink;
+}
+
+#element5 {
+    color: black;
+}
